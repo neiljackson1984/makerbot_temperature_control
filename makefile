@@ -25,7 +25,7 @@ default: $(sources)
 # @echo $(shell set)
 # cmd /c $${commandToPassToCmdToStartKitty} 
 
-# .SILENT:		
+.SILENT:		
 
 # set command="python /usr/scripts/repl.py"
 # start "" kitty -kload "U:\2020-05-02_makerbot_uart_connection\makerbot_ssh.ktx" -cmd %command% -title %command%

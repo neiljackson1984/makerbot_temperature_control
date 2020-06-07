@@ -1,0 +1,7 @@
+{
+    "python.analysis.memory.keepLibraryLocalVariables": true,
+    "python.analysis.memory.keepLibraryAst": true,
+    "python.pythonPath": "C:\\Users\\Admin\\.virtualenvs\\makerbot_investigation-cyFGg-FN\\Scripts\\python.exe",
+    "search.collapseResults": "auto",
+    "search.searchEditor.doubleClickBehaviour": "openLocationToSide"
+}

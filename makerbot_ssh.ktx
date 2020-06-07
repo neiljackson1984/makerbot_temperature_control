@@ -268,7 +268,7 @@ TransparencyValue\0\
 SendToTray\0\
 Maximize\0\
 Fullscreen\0\
-SaveOnExit\0\
+SaveOnExit\1\
 Icone\1\
 IconeFile\\
 SFTPConnect\\
@@ -280,10 +280,10 @@ Autocommand\\
 AutocommandOut\\
 Folder\Default\
 LogTimeRotation\0\
-TermXPos\-1\
-TermYPos\-1\
+TermXPos\3849\
+TermYPos\26\
 WindowState\0\
-SaveWindowPos\0\
+SaveWindowPos\1\
 ForegroundOnBell\0\
 Password\510b2\
 CtrlTabSwitch\0\
